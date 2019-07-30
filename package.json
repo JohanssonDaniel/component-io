@@ -1,0 +1,23 @@
+{
+  "name": "component-io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohanssonDaniel/component-io.git"
+  },
+  "author": "Daniel Johansson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JohanssonDaniel/component-io/issues"
+  },
+  "homepage": "https://github.com/JohanssonDaniel/component-io#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "express": "^4.17.1"
+  }
+}
